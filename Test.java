@@ -24,7 +24,7 @@ public class Test {
             double res = (double) a / b;
             System.out.println("Division result: " + res);
         } else {
-            System.out.println("Error: Division by zero is not allowed.")
+            System.out.println("Error: Division by zero is not allowed.");
         }
     }
 
